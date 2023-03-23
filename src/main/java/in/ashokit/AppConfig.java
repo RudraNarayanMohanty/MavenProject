@@ -7,6 +7,6 @@ import org.springframework.context.annotation.Configuration;
 @ComponentScan
 public class AppConfig {
 
-    System.out.println("spring application");
+    System.out.println("spring ");
 
 }
