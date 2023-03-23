@@ -1,0 +1,11 @@
+HELP.md
+target/
+!.mvnwrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+###sts###
+
+.settings
+.classpath
+.project
